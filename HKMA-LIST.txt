@@ -1,0 +1,268 @@
+#香港网站屏蔽列表 版本1.0 2023-12-18 21:08
+
+#屏蔽香港本地論壇
+127.0.0.1 www.discuss.com.hk
+127.0.0.1 discuss.com.hk
+127.0.0.1 forum.hkgolden.com
+127.0.0.1 article.hkgolden.com
+127.0.0.1 hkgolden.com
+127.0.0.1 lihkg.com
+127.0.0.1 www.lihkg.com
+127.0.0.1 uwants.com
+127.0.0.1 www.uwants.com
+127.0.0.1 baby-kingdom.com
+127.0.0.1 www.baby-kingdom.com
+
+#屏蔽儲值支付工具持牌人
+
+#屏蔽八達通卡有限公司SVF0001
+127.0.0.1 www.octopus.com.hk
+127.0.0.1 octopus.com.hk
+#屏蔽三三金融服務有限公司SVF0010
+127.0.0.1 www.33finance.com
+127.0.0.1 33finance.com
+127.0.0.1 prepaid.33prepaid.com
+#屏蔽全球付技術有限公司SVF0011
+127.0.0.1 www.globalcash.hk
+127.0.0.1 globalcash.hk
+#屏蔽快易通有限公司SVF0012
+127.0.0.1 www.autotoll.com.hk
+127.0.0.1 autotoll.com.hk
+#屏蔽通滙(香港)投資咨詢有限公司SVF0013
+127.0.0.1 www.transforex.hk
+127.0.0.1 transforex.hk
+#屏蔽圓幣錢包科技有限公司SVF0016
+127.0.0.1 www.rd.group
+127.0.0.1 rd.group
+#屏蔽銀傳集團有限公司SVF0014
+127.0.0.1 hk.yintran.com
+127.0.0.1 yintran.com
+#屏蔽Alipay Financial Services (HK) Limited SVF0004
+127.0.0.1 www.alipayhk.com
+127.0.0.1 alipayhk.com
+#屏蔽HKT Payment Limited SVF0002
+127.0.0.1 www.tapngo.com.hk
+127.0.0.1 tapngo.com.hk
+#屏蔽PayPal Hong Kong Limited SVF0008
+127.0.0.1 www.paypal.com
+127.0.0.1 paypal.com
+#屏蔽TNG (Asia) Limited SVF0003
+127.0.0.1 www.tngwallet.hk
+127.0.0.1 tngwallet.hk
+#屏蔽UniCard Solution Limited SVF0009
+127.0.0.1 www.unicard.hk
+127.0.0.1 unicard.hk
+#屏蔽WeChat Pay Hong Kong Limited SVF0005
+127.0.0.1 pay.wechat.com
+
+#屏蔽yuu
+127.0.0.1 www.yuurewards.com
+127.0.0.1 yuurewards.com
+#屏蔽EPS
+127.0.0.1 www.eps.com.hk
+127.0.0.1 eps.com.hk
+#屏蔽PayMe
+127.0.0.1 payme.hsbc.com.hk
+#屏蔽转数快
+127.0.0.1 fps.hkicl.com.hk
+127.0.0.1 hkicl.com.hk
+#屏蔽Stripe
+127.0.0.1 stripe.com
+127.0.0.1 api.stripe.com
+127.0.0.1 pay.stripe.com
+127.0.0.1 www.stripe.com
+127.0.0.1 dashboard.stripe.com
+#屏蔽Wise
+127.0.0.1 wise.com
+127.0.0.1 www.wise.com
+
+#屏蔽持牌銀行 (視為儲值支付工具持牌人)
+
+#屏蔽天星銀行有限公司 127.0.0.1 www.airstarbank.com
+127.0.0.1 airstarbank.com
+127.0.0.1 cibs.airstarbank.com
+#屏蔽螞蟻銀行(香港)有限公司
+127.0.0.1 www.antbank.hk
+127.0.0.1 antbank.hk
+127.0.0.1 business.antbank.hk
+#屏蔽中國銀行(香港)有限公司 
+127.0.0.1 www.bochk.com
+127.0.0.1 bochk.com
+127.0.0.1 its.bochk.com
+127.0.0.1 igtb.bochk.com
+127.0.0.1 cib.bochk.com
+#屏蔽交通銀行（香港）有限公司
+127.0.0.1 www.hk.bankcomm.com
+127.0.0.1 hk.bankcomm.com
+127.0.0.1 www.bankcomm.com.hk
+127.0.0.1 bankcomm.com.hk
+127.0.0.1 ec.bankcomm.com.hk
+127.0.0.1 trust.bocomtrust.com.hk
+#屏蔽東亞銀行有限公司
+127.0.0.1 www.hkbea.com
+127.0.0.1 hkbea.com
+127.0.0.1 hkbea-cyberbanking.com
+127.0.0.1 www.hkbea-cyberbanking.com
+127.0.0.1 biz.hkbea-cyberbanking.com
+127.0.0.1 ebank.hkbea.com.cn
+127.0.0.1 corpbank.hkbea.com.cn
+127.0.0.1 internet.easecurities.com.hk
+127.0.0.1 eafutures.com.hk
+127.0.0.1 www.eafutures.com.hk
+#屏蔽中信銀行(國際)有限公司
+127.0.0.1 www.cncbinternational.com
+127.0.0.1 cncbinternational.com
+127.0.0.1 ibanking.cncbinternational.com
+127.0.0.1 corponline.cncbinternational.com
+#屏蔽中國建設銀行(亞洲)股份有限公司
+127.0.0.1 asia.ccb.com
+127.0.0.1 www.asia.ccb.com
+127.0.0.1 olb.ccb.com
+127.0.0.1 intl.ccb.com
+#屏蔽集友銀行有限公司
+127.0.0.1 chiyubank.com
+127.0.0.1 www.chiyubank.com
+#屏蔽創興銀行有限公司
+127.0.0.1 chbank.com
+127.0.0.1 www.chbank.com
+127.0.0.1 www.ibanking.chbank.com
+127.0.0.1 ibanking.chbank.com
+127.0.0.1 online1.chsec.com.hk
+#屏蔽花旗銀行(香港)有限公司
+127.0.0.1 citibank.com.hk
+127.0.0.1 www.citibank.com.hk
+#招商永隆銀行有限公司
+127.0.0.1 cmbwinglungbank.com
+127.0.0.1 www.cmbwinglungbank.com
+127.0.0.1 www.cmbwinglungsec.com
+#屏蔽大新銀行有限公司
+127.0.0.1 dahsing.com
+127.0.0.1 www.dahsing.com
+127.0.0.1 ds-direct.dahsing.com
+#屏蔽星展銀行(香港)有限公司
+127.0.0.1 www.dbs.com
+127.0.0.1 dbs.com
+127.0.0.1 internet-banking.hk.dbs.com
+127.0.0.1 www1.dbsvonline.com
+127.0.0.1 ideal.dbs.com
+127.0.0.1 dbs.com.cn
+127.0.0.1 www.dbs.com.cn
+127.0.0.1 dbs.com.sg
+127.0.0.1 www.dbs.com.sg
+127.0.0.1 dbs.com.tw
+127.0.0.1 www.dbs.com.tw
+#屏蔽富邦銀行(香港)有限公司
+127.0.0.1 www.fubonbank.com.hk
+127.0.0.1 fubonbank.com.hk
+127.0.0.1 www.ebank.fubonbank.com.hk
+127.0.0.1 ebank.fubonbank.com.hk
+127.0.0.1 www.ist.fubonbank.com.hk
+127.0.0.1 ist.fubonbank.com.hk
+127.0.0.1 www.fbo.fubonbank.com.hk
+127.0.0.1 fbo.fubonbank.com.hk
+#屏蔽富融銀行有限公司
+127.0.0.1 www.fusionbank.com
+127.0.0.1 fusionbank.com
+#屏蔽恒生銀行有限公司
+127.0.0.1 www.hangseng.com
+127.0.0.1 hangseng.com
+127.0.0.1 e-banking2.hangseng.com
+127.0.0.1 www2.biz-ebanking.hangseng.com
+127.0.0.1 biz-ebanking.hangseng.com
+#屏蔽香港上海滙豐銀行有限公司
+127.0.0.1 www.hsbc.com.hk
+127.0.0.1 hsbc.com.hk
+127.0.0.1 www.online-banking.business.hsbc.com.hk
+127.0.0.1 online-banking.business.hsbc.com.hk
+127.0.0.1 www.business.hsbc.com.hk
+127.0.0.1 personal-banking.hsbc.com.hk
+127.0.0.1 investments4.personal-banking.hsbc.com.hk
+127.0.0.1 business.hsbc.com.hk
+127.0.0.1 www.hsbcnet.com
+#屏蔽中國工商銀行(亞洲)有限公司
+127.0.0.1 www.icbcasia.com
+127.0.0.1 icbcasia.com
+127.0.0.1 myebankasia.icbc.com.cn
+127.0.0.1 corpebankasia.icbc.com.cn
+#屏蔽理慧銀行有限公司
+127.0.0.1 www.livibank.com
+127.0.0.1 livibank.com
+#屏蔽摩根士丹利銀行亞洲有限公司
+127.0.0.1 www.mswarrants.com.hk
+127.0.0.1 mswarrants.com.hk
+#屏蔽MOX BANK LIMITED
+127.0.0.1 mox.com
+127.0.0.1 www.mox.com
+#屏蔽南洋商業銀行有限公司
+127.0.0.1 www.ncb.com.hk
+127.0.0.1 ncb.com.hk
+127.0.0.1 pib.ncb.com.hk
+127.0.0.1 cib.ncb.com.hk
+127.0.0.1 ibs.ncbchina.cn
+127.0.0.1 cbs.ncbchina.cn
+#屏蔽華僑銀行(香港)有限公司
+127.0.0.1 www.ocbc.com.hk
+127.0.0.1 ocbc.com.hk
+127.0.0.1 ebanking.ocbc.com.hk
+127.0.0.1 velocity.ocbc.com
+127.0.0.1 openbizaccounthk.ocbc.com
+#屏蔽平安壹賬通銀行(香港)有限公司
+127.0.0.1 www.paob.com.hk
+127.0.0.1 paob.com.hk
+#屏蔽大眾銀行(香港)有限公司
+127.0.0.1 www.publicbank.com.hk
+127.0.0.1 publicbank.com.hk
+127.0.0.1 ebank.publicbank.com.hk
+127.0.0.1 esecurities.publicbank.com.hk
+#屏蔽上海商業銀行有限公司
+127.0.0.1 www.shacombank.com.hk
+127.0.0.1 shacombank.com.hk
+127.0.0.1 www.shacomsecurities.com.hk
+127.0.0.1 www1.shacombank.com.hk
+127.0.0.1 www2.shacombank.com.hk
+#屏蔽渣打銀行(香港)有限公司
+127.0.0.1 www.sc.com
+127.0.0.1 sc.com
+127.0.0.1 retail.sc.com
+127.0.0.1 wealth.sc.com
+127.0.0.1 s2b.standardchartered.com
+#屏蔽大生銀行有限公司
+127.0.0.1 www.taisangbank.com.hk
+127.0.0.1 taisangbank.com.hk
+#屏蔽大有銀行有限公司
+127.0.0.1 www.tybhk.com.hk
+127.0.0.1 tybhk.com.hk
+#屏蔽匯立銀行有限公司
+127.0.0.1 www.welab.bank
+127.0.0.1 welab.bank
+#屏蔽眾安銀行有限公司
+127.0.0.1 bank.za.group
+127.0.0.1 za.group
+
+#虛擬銀行
+#屏蔽1. 天星銀行有限公司
+127.0.0.1 www.airstarbank.com
+127.0.0.1 airstarbank.com
+127.0.0.1 cibs.airstarbank.com
+#屏蔽2. 螞蟻銀行(香港)有限公司
+127.0.0.1 www.antbank.hk
+127.0.0.1 antbank.hk
+127.0.0.1 business.antbank.hk
+#屏蔽3. 富融銀行有限公司
+127.0.0.1 www.fusionbank.com
+127.0.0.1 fusionbank.com
+#屏蔽4. 理慧銀行有限公司
+127.0.0.1 www.livibank.com
+127.0.0.1 livibank.com
+#屏蔽5. MOX BANK LIMITED
+127.0.0.1 mox.com
+127.0.0.1 www.mox.com
+#屏蔽6. 平安壹賬通銀行(香港)有限公司
+127.0.0.1 www.paob.com.hk
+127.0.0.1 paob.com.hk
+#屏蔽7. 匯立銀行有限公司
+127.0.0.1 www.welab.bank
+127.0.0.1 welab.bank
+#屏蔽8. 眾安銀行有限公司
+127.0.0.1 bank.za.group
+127.0.0.1 za.group
