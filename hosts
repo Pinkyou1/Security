@@ -1,0 +1,86 @@
+#Korean website blocking Version 1.0 2023-12-21 15:04
+
+## 央行
+# 屏蔽韩国银行
+127.0.0.1 www.bok.or.kr	
+
+## 市中银行
+# 屏蔽韩亚银行
+127.0.0.1 www.kebhana.com
+127.0.0.1 www.hanabank.com
+127.0.0.1 www.hanabank.kr
+# 屏蔽国民银行
+127.0.0.1 www.kbstar.com
+# 屏蔽新韩银行
+127.0.0.1 www.shinhan.com
+# 屏蔽有利银行
+127.0.0.1 www.wooribank.com	
+# 屏蔽外换银行
+127.0.0.1 www.keb.co.kr
+# 屏蔽 SC第一银行
+127.0.0.1 www.scfirstbank.com
+# 屏蔽韩国花旗银行
+127.0.0.1 www.citibank.co.kr
+
+## 地方银行
+# 屏蔽光州银行	 
+127.0.0.1 m.kjbank.com
+# 屏蔽全北银行	 
+127.0.0.1 www.jbbank.co.kr
+# 屏蔽济州银行	 
+127.0.0.1 www.e-jejubank.com
+# 屏蔽大邱银行	
+127.0.0.1 banking.dgb.co.kr
+127.0.0.1 www.dgb.co.kr
+# 屏蔽釜山银行	
+127.0.0.1 www.busanbank.co.kr
+# 屏蔽庆南银行	BNK경남은행 
+127.0.0.1 knbank.co.kr	
+
+## 特殊银行
+# 屏蔽产业银行	
+127.0.0.1 www.kdb.co.kr	
+# 屏蔽储蓄互助社	
+127.0.0.1 www.ceicdata.com
+# 屏蔽中小企业银行 
+127.0.0.1 global.ibk.co.kr	
+# 屏蔽进出口银行	 
+127.0.0.1 www.koreaexim.go.kr
+# 屏蔽农协银行	
+127.0.0.1 banking.nonghyup.com	
+# 屏蔽水协银行	
+127.0.0.1 www.suhyup.co.kr
+
+## 外资银行
+# 屏蔽美国银行	
+127.0.0.1 www.bankofamerica.com
+# 屏蔽德意志银行	
+127.0.0.1 www.db.com
+# 屏蔽瑞穗银行	
+127.0.0.1 www.mizuhobank.co.jp
+# 屏蔽三菱日联银行	
+127.0.0.1 www.bk.mufg.jp
+# 屏蔽上海丰汇银行	
+127.0.0.1 www.hsbc.co.kr
+# 屏蔽苏格兰皇家银行	
+127.0.0.1 www.natwestgroup.com
+# 屏蔽花旗银行	
+127.0.0.1 www.citi.com
+# 屏蔽大通银行	
+127.0.0.1 www.chase.com
+# 屏蔽打银行	
+127.0.0.1 www.sc.com
+127.0.0.1 www.standardchartered.co.kr
+
+## 支付工具
+#KaKaoPay
+127.0.0.1 https://www.kakaopay.com
+# 屏蔽Stripe
+127.0.0.1 stripe.com
+127.0.0.1 api.stripe.com
+127.0.0.1 pay.stripe.com
+127.0.0.1 www.stripe.com
+127.0.0.1 dashboard.stripe.com
+# 屏蔽Wise
+127.0.0.1 wise.com
+127.0.0.1 www.wise.com
